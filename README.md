@@ -14,30 +14,13 @@ Você irá ver a utilização de imagens com HTML e markdown.
 
 ## Menu
 
-<style>
-
-.limenu{
-
-    display: inline;
-    padding: .5rem;
-
-}
-
-.limenu a{
-
-    decoration: none;
-    color: #6283f3
-
-}
-
-</style>
 
 <ul style = "margin-bottom: 5rem">
-    <li class = "limenu"><a href = "#descricao">Descrição</a></li>
-    <li class = "limenu"><a href = "#status">Status</a></li>
-    <li class = "limenu"><a href = "#features">Features</a></li>
-    <li class = "limenu"><a href = "#mapaprojeto">Mapa do Projeto</a></li>
-    <li class = "limenu"><a href = "">Tecnologias</a></li>
+    <li><a href = "#descricao">Descrição</a></li>
+    <li><a href = "#status">Status</a></li>
+    <li><a href = "#features">Features</a></li>
+    <li><a href = "#mapaprojeto">Mapa do Projeto</a></li>
+    <li><a href = "">Tecnologias</a></li>
 </ul>
 
 ## :rocket: Status do Projeto
@@ -66,4 +49,4 @@ Você irá ver a utilização de imagens com HTML e markdown.
 
 <!-- |header1|header2|
 |-----|----|
-|itemli1|itemli2| >
+|itemli1|itemli2| -->
